@@ -1,0 +1,41 @@
+			  camelCase         snake_case          PascalCase
+
+		    direccionUsuario   direccion_usuario  DireccionUsuario
+
+clase 
+Atributos-¿que tiene?
+
+Acciones-¿que hace?
+
+clase Persona
+-Nombre
+-Apellido
+-Edad
+-Cedula
+-Pais
+-Ciudad
+
+logear()
+salir()
+comprar()
+
+clase Usuario (Persona)
+
+registrar()
+editar()
+
+
+clase Paciente (Persona)
+-Diagnostico
+-Seguro
+
+consultar()
+pagar()
+
+clase Doctor (Persona)
+-Especialidad
+-Area
+
+atiende()
+recetaMedicamentos()
+registrar()
